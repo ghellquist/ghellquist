@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghellquist
-- 👀 I’m interested in powershell, c# and sql
-- 🌱 I’m currently learning powershell
+- 👀 I’m interested in powershell, c# and sql and rust
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on -- nothing right now, will change with time.
 - 📫 How to reach me ...
 
